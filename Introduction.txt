@@ -1,0 +1,7 @@
+Project: SauceDemo
+Language: JAva
+
+Framework: Selenium
+TestingFramework: Test NG
+
+Server: GIT
